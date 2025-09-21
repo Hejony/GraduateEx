@@ -2,7 +2,7 @@
 export const ADMIN_PASSWORD = '0921';
 export const MAX_BOOKINGS_PER_SLOT = 3;
 
-export const TITLE = '예빈&혜정 졸프에 초대합니다 |・ω・';
+export const TITLE = '예빈&혜정 졸업전시 개봉박두|・ω・';
 export const SUBTITLE = '방문 예정 시간대를 선택해주시면 저희가 소정의 선물(?)과 함께 기다리고 있겠습니다! ε=ε=┌( >_<)┘';
 export const FOOTER_TEXT = '메시지는 저희만 확인 가능하니 편하게 작성해주세요!';
 
